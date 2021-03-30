@@ -3,3 +3,5 @@ RENCANA KONTEN M-RESO
 -mendeteksi denyut jantung
 -mendeteksi darah
 -melakukan kontrol motor
+-menampilkan data pada LCD
+-menampilkan data pada website 
