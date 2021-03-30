@@ -5,3 +5,5 @@ RENCANA KONTEN M-RESO
 -melakukan kontrol motor
 -menampilkan data pada LCD
 -menampilkan data pada website 
+
+-membuat buku dan powerpoint
