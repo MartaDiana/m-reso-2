@@ -10,3 +10,4 @@ RENCANA KONTEN M-RESO
   *background
   *isi
   *abstrak
+  *kesimpulan
