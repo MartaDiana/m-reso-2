@@ -1,0 +1,7 @@
+RENCANA KONTEN M-RESO
+-mendeteksi laju cairan infus
+-mendeteksi denyut jantung
+-mendeteksi darah
+-melakukan kontrol motor
+-menampilkan data pada LCD
+-menampilkan data pada website 
