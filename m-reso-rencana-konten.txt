@@ -1,0 +1,5 @@
+RENCANA KONTEN M-RESO
+-mendeteksi laju cairan infus
+-mendeteksi denyut jantung
+-mendeteksi darah
+-melakukan kontrol motor
