@@ -6,6 +6,8 @@ RENCANA KONTEN M-RESO
 -menampilkan data pada LCD
 -menampilkan data pada website 
 
--membuat buku dan powerpoint
+-membuat buku dan powerpoint 
   *background
-  *frameword pp
+  *isi
+  *abstrak
+  *kesimpulan
